@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>python course</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.python.pydev.PyDevBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.python.pydev.pythonNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>python &quot;from print to API call&quot;</name>
+			<type>2</type>
+			<location>/Users/docebogiu1702/Desktop/python</location>
+		</link>
+	</linkedResources>
+</projectDescription>
